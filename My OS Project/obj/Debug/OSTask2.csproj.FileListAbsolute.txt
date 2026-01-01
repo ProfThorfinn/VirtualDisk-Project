@@ -1,0 +1,14 @@
+C:\Users\daia\source\repos\OSTask2\OSTask2\bin\Debug\OSTask2.exe.config
+C:\Users\daia\source\repos\OSTask2\OSTask2\bin\Debug\OSTask2.exe
+C:\Users\daia\source\repos\OSTask2\OSTask2\bin\Debug\OSTask2.pdb
+C:\Users\daia\source\repos\OSTask2\OSTask2\obj\Debug\OSTask2.csproj.AssemblyReference.cache
+C:\Users\daia\source\repos\OSTask2\OSTask2\obj\Debug\OSTask2.csproj.CoreCompileInputs.cache
+C:\Users\daia\source\repos\OSTask2\OSTask2\obj\Debug\OSTask2.exe
+C:\Users\daia\source\repos\OSTask2\OSTask2\obj\Debug\OSTask2.pdb
+D:\OSTask2\OSTask2\bin\Debug\OSTask2.exe.config
+D:\OSTask2\OSTask2\bin\Debug\OSTask2.exe
+D:\OSTask2\OSTask2\bin\Debug\OSTask2.pdb
+D:\OSTask2\OSTask2\obj\Debug\OSTask2.csproj.AssemblyReference.cache
+D:\OSTask2\OSTask2\obj\Debug\OSTask2.csproj.CoreCompileInputs.cache
+D:\OSTask2\OSTask2\obj\Debug\OSTask2.exe
+D:\OSTask2\OSTask2\obj\Debug\OSTask2.pdb

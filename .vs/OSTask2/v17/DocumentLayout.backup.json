@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daia\\source\\repos\\OSTask2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9174751-1DFC-494F-8776-C5F28F6622E7}|OSTask2\\OSTask2.csproj|C:\\Users\\daia\\source\\repos\\OSTask2\\ostask2\\shell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9174751-1DFC-494F-8776-C5F28F6622E7}|OSTask2\\OSTask2.csproj|solutionrelative:ostask2\\shell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9174751-1DFC-494F-8776-C5F28F6622E7}|OSTask2\\OSTask2.csproj|C:\\Users\\daia\\source\\repos\\OSTask2\\ostask2\\filesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9174751-1DFC-494F-8776-C5F28F6622E7}|OSTask2\\OSTask2.csproj|solutionrelative:ostask2\\filesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9174751-1DFC-494F-8776-C5F28F6622E7}|OSTask2\\OSTask2.csproj|c:\\users\\daia\\source\\repos\\ostask2\\ostask2\\directorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9174751-1DFC-494F-8776-C5F28F6622E7}|OSTask2\\OSTask2.csproj|solutionrelative:ostask2\\directorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9174751-1DFC-494F-8776-C5F28F6622E7}|OSTask2\\OSTask2.csproj|C:\\Users\\daia\\source\\repos\\OSTask2\\ostask2\\directoryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9174751-1DFC-494F-8776-C5F28F6622E7}|OSTask2\\OSTask2.csproj|solutionrelative:ostask2\\directoryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9174751-1DFC-494F-8776-C5F28F6622E7}|OSTask2\\OSTask2.csproj|C:\\Users\\daia\\source\\repos\\OSTask2\\ostask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9174751-1DFC-494F-8776-C5F28F6622E7}|OSTask2\\OSTask2.csproj|solutionrelative:ostask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9174751-1DFC-494F-8776-C5F28F6622E7}|OSTask2\\OSTask2.csproj|C:\\Users\\daia\\source\\repos\\OSTask2\\ostask2\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9174751-1DFC-494F-8776-C5F28F6622E7}|OSTask2\\OSTask2.csproj|solutionrelative:ostask2\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9174751-1DFC-494F-8776-C5F28F6622E7}|OSTask2\\OSTask2.csproj|C:\\Users\\daia\\source\\repos\\OSTask2\\ostask2\\fattablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9174751-1DFC-494F-8776-C5F28F6622E7}|OSTask2\\OSTask2.csproj|solutionrelative:ostask2\\fattablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9174751-1DFC-494F-8776-C5F28F6622E7}|OSTask2\\OSTask2.csproj|C:\\Users\\daia\\source\\repos\\OSTask2\\ostask2\\superblockmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9174751-1DFC-494F-8776-C5F28F6622E7}|OSTask2\\OSTask2.csproj|solutionrelative:ostask2\\superblockmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9174751-1DFC-494F-8776-C5F28F6622E7}|OSTask2\\OSTask2.csproj|C:\\Users\\daia\\source\\repos\\OSTask2\\ostask2\\fsconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9174751-1DFC-494F-8776-C5F28F6622E7}|OSTask2\\OSTask2.csproj|solutionrelative:ostask2\\fsconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9174751-1DFC-494F-8776-C5F28F6622E7}|OSTask2\\OSTask2.csproj|C:\\Users\\daia\\source\\repos\\OSTask2\\ostask2\\virtualdisk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9174751-1DFC-494F-8776-C5F28F6622E7}|OSTask2\\OSTask2.csproj|solutionrelative:ostask2\\virtualdisk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daia\\source\\repos\\OSTask2\\OSTask2\\Program.cs",
+              "RelativeDocumentMoniker": "OSTask2\\Program.cs",
+              "ToolTip": "C:\\Users\\daia\\source\\repos\\OSTask2\\OSTask2\\Program.cs",
+              "RelativeToolTip": "OSTask2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA0wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:42:31.217Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shell.cs",
+              "DocumentMoniker": "C:\\Users\\daia\\source\\repos\\OSTask2\\OSTask2\\Shell.cs",
+              "RelativeDocumentMoniker": "OSTask2\\Shell.cs",
+              "ToolTip": "C:\\Users\\daia\\source\\repos\\OSTask2\\OSTask2\\Shell.cs",
+              "RelativeToolTip": "OSTask2\\Shell.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:49:52.291Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileSystem.cs",
+              "DocumentMoniker": "C:\\Users\\daia\\source\\repos\\OSTask2\\OSTask2\\FileSystem.cs",
+              "RelativeDocumentMoniker": "OSTask2\\FileSystem.cs",
+              "ToolTip": "C:\\Users\\daia\\source\\repos\\OSTask2\\OSTask2\\FileSystem.cs",
+              "RelativeToolTip": "OSTask2\\FileSystem.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAUwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T21:28:52.032Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DirectoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\daia\\source\\repos\\OSTask2\\OSTask2\\DirectoryManager.cs",
+              "RelativeDocumentMoniker": "OSTask2\\DirectoryManager.cs",
+              "ToolTip": "C:\\Users\\daia\\source\\repos\\OSTask2\\OSTask2\\DirectoryManager.cs",
+              "RelativeToolTip": "OSTask2\\DirectoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:14:56.59Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DirectoryEntry.cs",
+              "DocumentMoniker": "C:\\Users\\daia\\source\\repos\\OSTask2\\OSTask2\\DirectoryEntry.cs",
+              "RelativeDocumentMoniker": "OSTask2\\DirectoryEntry.cs",
+              "ToolTip": "C:\\Users\\daia\\source\\repos\\OSTask2\\OSTask2\\DirectoryEntry.cs",
+              "RelativeToolTip": "OSTask2\\DirectoryEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:14:38.289Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Converter.cs",
+              "DocumentMoniker": "C:\\Users\\daia\\source\\repos\\OSTask2\\OSTask2\\Converter.cs",
+              "RelativeDocumentMoniker": "OSTask2\\Converter.cs",
+              "ToolTip": "C:\\Users\\daia\\source\\repos\\OSTask2\\OSTask2\\Converter.cs",
+              "RelativeToolTip": "OSTask2\\Converter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:13:12.953Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FatTableManager.cs",
+              "DocumentMoniker": "C:\\Users\\daia\\source\\repos\\OSTask2\\OSTask2\\FatTableManager.cs",
+              "RelativeDocumentMoniker": "OSTask2\\FatTableManager.cs",
+              "ToolTip": "C:\\Users\\daia\\source\\repos\\OSTask2\\OSTask2\\FatTableManager.cs",
+              "RelativeToolTip": "OSTask2\\FatTableManager.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAUwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:13:36.511Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SuperblockManager.cs",
+              "DocumentMoniker": "C:\\Users\\daia\\source\\repos\\OSTask2\\OSTask2\\SuperblockManager.cs",
+              "RelativeDocumentMoniker": "OSTask2\\SuperblockManager.cs",
+              "ToolTip": "C:\\Users\\daia\\source\\repos\\OSTask2\\OSTask2\\SuperblockManager.cs",
+              "RelativeToolTip": "OSTask2\\SuperblockManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:57:14.442Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VirtualDisk.cs",
+              "DocumentMoniker": "C:\\Users\\daia\\source\\repos\\OSTask2\\OSTask2\\VirtualDisk.cs",
+              "RelativeDocumentMoniker": "OSTask2\\VirtualDisk.cs",
+              "ToolTip": "C:\\Users\\daia\\source\\repos\\OSTask2\\OSTask2\\VirtualDisk.cs",
+              "RelativeToolTip": "OSTask2\\VirtualDisk.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:57:45.084Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FSConstants.cs",
+              "DocumentMoniker": "C:\\Users\\daia\\source\\repos\\OSTask2\\OSTask2\\FSConstants.cs",
+              "RelativeDocumentMoniker": "OSTask2\\FSConstants.cs",
+              "ToolTip": "C:\\Users\\daia\\source\\repos\\OSTask2\\OSTask2\\FSConstants.cs",
+              "RelativeToolTip": "OSTask2\\FSConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:56:45.635Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
